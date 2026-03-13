@@ -30,8 +30,8 @@ Here are some projects I’ve worked on:
 ---
 
 ## Connect with Me
-- LinkedIn: [Your LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/syeda-waleeja-wahab-43ba833b2/))  
-- Twitter: [Your Twitter]([https://twitter.com/](https://x.com/SyedaWaleeja23))  
+- LinkedIn: ([https://www.linkedin.com/](https://www.linkedin.com/in/syeda-waleeja-wahab-43ba833b2/))  
+- Twitter: ([https://twitter.com/](https://x.com/SyedaWaleeja23))  
 - Portfolio: [Your Portfolio](https://bint-e-hawa.rf.gd/?i=1)  
 - Email: [syedawaleeja697@gmail.com](mailto:syedawaleeja697@gmail.com)  
 
